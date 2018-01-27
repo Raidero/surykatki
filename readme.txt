@@ -27,3 +27,4 @@ Problem zosta³ rozwi¹zany w sposób dyskretny, ca³a rzeka z krokodylami
 generowana jest na samym pocz¹tku i rozwi¹zuj¹c problem mamy zapisan¹
 w pamiêci ca³¹ mapê. Rozwi¹zanie to powoduje, ¿e dla bardzo du¿ych problemów
 (n > 7000) program rzuca wyj¹tkiem bad_alloc, poniewa¿ brakuje pamiêci na mapê.
+
